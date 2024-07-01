@@ -1,0 +1,3 @@
+Terminal command:     locust -f locustfile.py --host https://dog.ceo
+        
+API URL:    https://dog.ceo/dog-api/
